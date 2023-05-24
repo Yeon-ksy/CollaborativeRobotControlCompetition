@@ -15,5 +15,4 @@
 ## 대회 결과
 
 - 알고리즘 구동시간 15.8초로 `3등 달성`
-
-    <img align="center" src="images/Result.gif">
+    ![](images/Result.gif)
